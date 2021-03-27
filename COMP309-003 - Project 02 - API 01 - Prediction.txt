@@ -1,0 +1,12 @@
+[
+	{"Location_Type": "Residential - Group Housing", "Premise_Type": "Other", "Hood_ID": 150, "Bike_Type": "MT", "Cost_of_Bike": 150},
+	{"Location_Type": "Residential - Small Housing", "Premise_Type": "House", "Hood_ID": 131, "Bike_Type": "MT", "Cost_of_Bike": 120},
+	{"Location_Type": "Specialty = Other Non-Profit", "Premise_Type": "Other", "Hood_ID": 75, "Bike_Type": "RC", "Cost_of_Bike": 675},
+	{"Location_Type": "Residential - Small Housing", "Premise_Type": "House", "Hood_ID": 130, "Bike_Type": "MT", "Cost_of_Bike": 200},
+	{"Location_Type": "Public Open Area", "Premise_Type": "Outside", "Hood_ID": 87, "Bike_Type": "MT", "Cost_of_Bike": 600},
+	{"Location_Type": "Residential - Small Housing", "Premise_Type": "House", "Hood_ID": 130, "Bike_Type": "MT", "Cost_of_Bike": 200},
+	{"Location_Type": "Commercial - Corporate", "Premise_Type": "Commercial", "Hood_ID": 95, "Bike_Type": "FO", "Cost_of_Bike": 400},
+	{"Location_Type": "Residential - Small Housing", "Premise_Type": "Other", "Hood_ID": 132, "Bike_Type": "MT", "Cost_of_Bike": 150},
+	{"Location_Type": "Specialty - Religious", "Premise_Type": "Other", "Hood_ID": 75, "Bike_Type": "RC", "Cost_of_Bike": 675},
+	{"Location_Type": "Specialty - Educational", "Premise_Type": "Other", "Hood_ID": 75, "Bike_Type": "RC", "Cost_of_Bike": 675}
+]
